@@ -96,15 +96,16 @@ nav ul {
 
 #reset{
     font-size: 2.5vw;
-    color: white;
-    background-color: black;
+    background-color: rgb(47, 26, 75);
     font-weight: 600;
-    padding: 0.25em;
-    margin: 0 0.5em;
+    padding: 0.2em;
+    margin: 0 0.3em;
+    border-radius: 10px;
 }
 
 #reset a{
     text-decoration: none;
+    color: white;
 }
 
 .info{
